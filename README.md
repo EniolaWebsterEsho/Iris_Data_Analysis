@@ -1,6 +1,6 @@
 # Iris_Data_Analysis
 
-A scatter plot for Sepal Length, Sepal Width and Petal Length attributes of iris data set (see Note). The value of attribute Petal Length is represented by the size of object in the plot.
+A scatter plot for Sepal Length, Sepal Width and Petal Length attributes of iris data set. The value of attribute Petal Length is represented by the size of object in the plot.
 
 ![image](https://user-images.githubusercontent.com/91756330/209983903-aee91ad9-b819-4675-bdef-e59431d6221c.png)
 
